@@ -142,13 +142,3 @@ For questions, suggestions, or issues, please feel free to create an issue on Gi
 
 This project is developed and maintained at the [Budapest University of Technology and Economics](https://www.bme.hu/), Faculty of Electrical Engineering and Informatics.
 ```
-
-### Key sections:
-- **Model Overview**: Describes the overall approach and structure of the segmentation model.
-- **Installation**: Instructions for setting up the project and installing dependencies.
-- **Directory Structure**: Shows the project’s folder organization for easy navigation.
-- **Usage**: Details on how to train, evaluate, and use the model for new data.
-- **Training Parameters**: Lists important hyperparameters for training the model.
-- **Results**: Discusses evaluation metrics and what they mean for the model’s performance.
-- **Next Steps**: Mentions areas for potential future improvements.
-- **Citation**: Credit for using the work in academic or professional projects.

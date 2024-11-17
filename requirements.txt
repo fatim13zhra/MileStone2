@@ -1,0 +1,17 @@
+# Core dependencies for model training and evaluation
+torch==2.4.1                  # PyTorch for deep learning model building
+torchvision==0.15.1           # For working with image datasets
+torchaudio==2.4.1             # For audio-based tasks (optional if needed)
+numpy==1.24.3                 # For numerical operations
+scipy==1.11.1                 # For scientific and numerical methods
+Pillow==9.6.0                 # Image processing and manipulation
+OpenCV-Python==4.7.0.72       # OpenCV for image reading, resizing, etc.
+matplotlib==3.7.1             # For plotting and visualizing training results
+tqdm==4.65.0                  # Progress bar for loops
+scikit-learn==1.3.0           # For evaluating model performance (e.g., metrics)
+pandas==2.1.1                 # Data handling and manipulation
+h5py==3.8.0                   # HDF5 support (if used for saving model checkpoints)
+
+# Tools for dataset loading and augmentation
+albumentations==1.3.0         # Image augmentation library
+torchmetrics==0.11.4          # For evaluating model performance metrics

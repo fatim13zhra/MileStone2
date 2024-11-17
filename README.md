@@ -57,6 +57,7 @@ pip install -r requirements.txt
 │   └── val
 │       └── images
 │       └── masks
+|       └── test
 ├── src
 │   ├── model.py                  # Model definition (Encoder-Decoder + ASPP)
 │   ├── train.py                  # Script to train the model
